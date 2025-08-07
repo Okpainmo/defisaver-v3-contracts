@@ -9,7 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-.vscode
 bin/*
 
 aaveV3-proposal.json
@@ -130,3 +129,7 @@ lib/
 yarn.lock
 
 gen/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
